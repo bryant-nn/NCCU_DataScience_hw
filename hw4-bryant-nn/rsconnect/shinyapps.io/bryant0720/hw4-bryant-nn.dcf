@@ -1,0 +1,14 @@
+name: hw4-bryant-nn
+title: hw4-bryant-nn
+username:
+account: bryant0720
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5204786
+bundleId: 5293458
+url: https://bryant0720.shinyapps.io/hw4-bryant-nn/
+when: 1637861149.67866
+lastSyncTime: 1637861149.67869
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|108703030/.RData|108703030/.Rhistory|108703030/server.r|108703030/ui.r|images/img1.png|images/img2.png|pca.R|README.md
